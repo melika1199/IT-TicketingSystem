@@ -1,3 +1,5 @@
+## IT-TicketingSystem
+
 <p align="center"><img src="https://laravel.com/assets/img/components/logo-laravel.svg"></p>
 
 <p align="center">
@@ -23,7 +25,7 @@ Laravel is accessible, yet powerful, providing tools needed for large, robust ap
 
 ## How To Run
 
-to run just type [php artisan serve] in the command line.
+to run just type `php artisan serve` in the command line.
 
 ## Laravel Documentation
 
